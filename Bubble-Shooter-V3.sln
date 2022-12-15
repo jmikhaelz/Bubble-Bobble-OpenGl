@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble-Shooter-V3", "Bubble-Shooter-V3\Bubble-Shooter-V3.csproj", "{EBEEAC02-132E-4EB2-B450-89565BD8BA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEEAC02-132E-4EB2-B450-89565BD8BA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEEAC02-132E-4EB2-B450-89565BD8BA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEEAC02-132E-4EB2-B450-89565BD8BA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEEAC02-132E-4EB2-B450-89565BD8BA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
