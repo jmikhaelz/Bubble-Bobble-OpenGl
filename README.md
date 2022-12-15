@@ -1,4 +1,4 @@
-# Ping-Pong-OpenGl
+# Bubble Bobble-OpenGl
 Videojuego - Basado por Bubble Bobble, en lenguaje c#, con biblioteca grafica OpenGl
 
 #------Teoria para el manejo del video juego---------#
