@@ -7,4 +7,4 @@ Videojuego - Basado por Bubble Bobble, en lenguaje c#, con biblioteca grafica Op
 > Vectores
 
 // Nota // Version no finalizada
-// Faltar meter niveles , manjeo de bobble no esten volando
+// Faltar meter niveles , manejo de bobble no esten volando
